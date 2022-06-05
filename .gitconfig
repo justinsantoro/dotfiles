@@ -1,3 +1,7 @@
 [user]
 	email = jzsantoro14@gmail.com
 	name = Justin Santoro
+[core]
+	autocrlf = false
+[init]
+	defaultBranch = main
